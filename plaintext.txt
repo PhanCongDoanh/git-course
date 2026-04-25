@@ -8,3 +8,5 @@ Login & Logout Required
 
 Main branch feature: Added feature-3
 Main added
+
+Main: Feature3 merged
