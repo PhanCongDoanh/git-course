@@ -3,3 +3,5 @@ I want to get a job in IT field
 And now I want to master Mandarin
 I have to finish this course as soon as possible
 And apply for a internship
+
+Login & Logout Required
